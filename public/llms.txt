@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover profound celestial wisdom with Olga Graids, your trusted astrologer near me. Explore your birth chart, daily horoscope today, and unlock the universe&#39;s guidance made just for you.
+
+### About
+https://example.com/about
+Olga Graids is a seasoned astrologer blending ancient star wisdom with modern spiritual insight. Learn her journey, philosophy, and why thousands trust her cosmic readings to transform their lives.
+
+### Services
+https://example.com/services
+From aries dates zodiac deep-dives to full natal chart analyses, Olga Graids offers powerful astrological services tailored to your soul&#39;s path. Book your personalized cosmic session and step into clarity today.
+
+### Contact
+https://example.com/contact
+Ready to decode the stars? Reach out to Olga Graids, a trusted astrologer near me, and get your daily horoscope today plus personalized guidance. Your celestial breakthrough is just one message away.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
